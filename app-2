@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "This is app-2, version 0.1.0"
+echo "This is app-2, version 0.1.2"
